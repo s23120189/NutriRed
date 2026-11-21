@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NutriRed</string>
+    <string name="hint_food_name">Food name</string>
+    <string name="label_type">Type</string>
+    <string name="label_urgent">Urgent</string>
+    <string name="btn_pick_time">Pick time</string>
+    <string name="btn_save">Save</string>
+</resources>
